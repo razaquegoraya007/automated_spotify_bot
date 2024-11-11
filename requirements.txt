@@ -1,0 +1,6 @@
+selenium
+numpy
+tensorflow
+scikit-learn
+pyautogui
+tk
